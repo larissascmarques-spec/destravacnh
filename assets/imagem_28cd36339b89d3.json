@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "bonus-1",
+    "title": "7 dias de revisão guiada",
+    "description": "Um plano para escolher o que revisar, testar sua lembrança e levar dúvidas concretas à próxima aula."
+  },
+  {
+    "slug": "bonus-2",
+    "title": "Checklist da aula à prova",
+    "description": "Do ajuste do banco às orientações do agendamento: dois checklists para consultar sem depender só da memória."
+  },
+  {
+    "slug": "bonus-3",
+    "title": "Meu próximo treino",
+    "description": "Registre o que aconteceu na aula, o que já executa e qual habilidade precisa trabalhar com o instrutor."
+  },
+  {
+    "slug": "bonus-4",
+    "title": "Reprovei. E agora?",
+    "description": "Transforme o resultado em um plano de revisão e treino, em vez de repetir a tentativa sem entender a dificuldade."
+  }
+]
